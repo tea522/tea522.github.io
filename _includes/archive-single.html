@@ -68,9 +68,21 @@
 
 
     {% if post.notesurl %}  
-    <p><a href="{{ post.notesurl }}">Download Notes</a></p>
+    <p><a href="{{ post.notesurl }}"> Note 1 </a></p>
     {% endif %}
 
+    {% if post.notes2url %}  
+    <p><a href="{{ post.notes2url }}"> Note 2 </a></p>
+    {% endif %}
+
+    {% if post.notes3url %}  
+    <p><a href="{{ post.notes3url }}"> Note 3 </a></p>
+    {% endif %}
+
+    {% if post.speaker %}
+          <p> Speaker: {{ post.speaker }} </p>
+   {% endif %}     
+      
 
   </article>
 </div>
