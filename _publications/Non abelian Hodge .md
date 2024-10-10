@@ -17,7 +17,7 @@ notes3url: 'http://tea522.github.io/files/Huang pengfei--Higgs bundles_55-113.pd
 
 Non abelian Hodge theory is a very interesting topic.  
 
-Related topic: Peter Smillie gave a talk about Higgs bundles and the Labourie conjecture in Tsinghua on September 2nd- September 10th, 2024. Now you can find the recordings. If you are interested in it, please refer to [Higgs bundles and the Labourie conjecture](https://ymsc.tsinghua.edu.cn/info/1050/3843.htm). 
+Related topic: Peter Smillie gave a talk about Higgs bundles and the Labourie conjecture in Tsinghua on September 2nd-September 11st, 2024. Now you can find the recordings. If you are interested in it, please refer to [Higgs bundles and the Labourie conjecture](https://ymsc.tsinghua.edu.cn/info/1050/3843.htm). 
 
 <!-- This note is written by Huang pengfei's talk about Higgs bundles.  -->
 
