@@ -223,6 +223,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  seminars:           #新增seminars
+     output: true
+     permalink: /:collection/:path/ 
 
 
 # These settings control how pages and collections are included in the site
@@ -263,6 +266,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+  # _seminars   #新增seminars
+  - scope:
+      path: ""
+      type: seminars
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true 
+
   # _portfolio
   - scope:
       path: ""
