@@ -2,7 +2,7 @@
 title: "Non abelian Hodge theory"
 collection: publications
 category: manuscripts
-permalink: /publications/Non abelian Hodge
+permalink: /publication/Non abelian Hodge
 excerpt: 'One part of the notes is  from  Pengfei Huang , who taught a short course on Higgs bundles and local systems. Please refer to the details on the website (http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm). And another part is from Xukun Zheng, who talks about Non abelian Hodge theory in our seminar.'
 date: 2024-10-09
 #venue: 'Journal 1'
