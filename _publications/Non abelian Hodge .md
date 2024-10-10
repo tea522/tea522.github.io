@@ -8,6 +8,7 @@ date: 2024-10-09
 venue: 'Journal 1'
 slidesurl: 'http://tea522.github.io/files/Kobayashi--Curvature and stablity of vector bundles.pdf'
 paperurl: 'http://tea522.github.io/files/Huang pengfei--Higgs bundles_1-54.pdf'
+notesurl: 'http://tea522.github.io/files/Huang pengfei--Higgs bundles_55-113.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
