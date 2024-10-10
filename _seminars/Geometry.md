@@ -3,7 +3,7 @@ title: "Non abelian Hodge theory"
 collection: seminars
 category: manuscripts
 permalink: /seminars/Geometry
-excerpt: 'One part of the notes is  from  Pengfei Huang , who taught a short course on Higgs bundles and local systems. Please refer to the details on the website (http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm). And another part is from Xukun Zheng, who talks about Non abelian Hodge theory in our seminar.'
+excerpt: 'One part of the notes is  from  Pengfei Huang , who taught a short course on Higgs bundles and local systems. Please refer to the details on the website [Higgs bundles](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm). And another part is from Xukun Zheng, who talks about Non abelian Hodge theory in our seminar.'
 date: 2024-10-09
 #venue: 'Journal 1'
 slidesurl: 'http://tea522.github.io/files/Kobayashi--Curvature and stablity of vector bundles.pdf'
