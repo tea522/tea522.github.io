@@ -41,10 +41,16 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+
+        <!-- 添加speaker的信息 -->
+        {% if post.speaker %}                   
+          <p> Speaker: {{ post.speaker }} </p>
+   {% endif %}     
+      
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -66,7 +72,7 @@
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
-
+  <!-- 提供上传pdf和可供读者下载note的链接 -->
     {% if post.notes1url %}  
     <p><a href="{{ post.notes1url }}"> Note 1 </a></p>
     {% endif %}
@@ -79,10 +85,7 @@
     <p><a href="{{ post.notes3url }}"> Note 3 </a></p>
     {% endif %}
 
-    {% if post.speaker %}
-          <p> Speaker: {{ post.speaker }} </p>
-   {% endif %}     
-      
+   
 
   </article>
 </div>
