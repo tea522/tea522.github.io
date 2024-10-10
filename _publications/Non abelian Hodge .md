@@ -15,7 +15,9 @@ notes3url: 'http://tea522.github.io/files/Huang pengfei--Higgs bundles_55-113.pd
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-Non abelian Hodge theory is a very interesting topic. 
+Non abelian Hodge theory is a very interesting topic.  
+
+Related topic: Peter Smillie gave a talk about Higgs bundles and the Labourie conjecture in Tsinghua on September 2nd- September 10th, 2024. Now you can find the recordings. If you are interested in it, please refer to [Higgs bundles and the Labourie conjecture](https://ymsc.tsinghua.edu.cn/info/1050/3843.htm). 
 
 <!-- This note is written by Huang pengfei's talk about Higgs bundles.  -->
 
