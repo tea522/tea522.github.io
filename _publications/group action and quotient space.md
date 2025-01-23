@@ -3,7 +3,7 @@ title: "Group action and quotient space"
 collection: publications
 category: manuscripts
 permalink: /publication/group action and quotient space
-excerpt: 'Given an (left) continous  (resp. smooth, or holomorphic) group ($G$) action   on topological (resp. smooth, or holomorphic) manifold $X$,  Whether can we endow quotient space $X/G$ with a topological (resp. smooth manifold or complex manifold, ) structure such that the orbit map $\pi: X \longrightarrow X/G $ is a surjective continous  (resp. smooth, holomorphic) map ?  In general, it is true. We will explain some sufficient conditions with some examples. At last, we talk about symplectic quotient based on Hamiltonian group action.'
+excerpt: 'Given an (left) continous  (resp. smooth, or holomorphic) group ($G$) action   on topological (resp. smooth, or holomorphic) manifold $$X$$,  Whether can we endow quotient space $$X/G$$ with a topological (resp. smooth manifold or complex manifold, ) structure such that the orbit map $\pi: X \longrightarrow X/G $ is a surjective continous  (resp. smooth, holomorphic) map ?  In general, it is true. We will explain some sufficient conditions with some examples. At last, we talk about symplectic quotient based on Hamiltonian group action.'
 speaker: Jiayu Song
 date: '2024-10-10'
 # venue: 'Journal 1'
