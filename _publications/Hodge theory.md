@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Hodge theory
 excerpt: 'Hodge theory is a very interesting topic.'
 speaker: Ju Tan and Zhitong Su
-date: 2025-01-23
+date: '2025-01-23'
 # venue: 'Journal 1'
 notes1url: 'http://tea522.github.io/files/Hodge_Intro.pdf'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
