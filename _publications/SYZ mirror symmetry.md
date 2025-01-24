@@ -3,10 +3,8 @@ title: "SYZ mirror symmetry"
 collection: publications
 category: manuscripts
 permalink: /publication/SYZ mirror symmetry
-excerpt: 'The SYZ conjecture is an attempt to understand the mirror symmetry conjecture, an issue in theoretical physics and mathematics. The original conjecture was proposed in a paper by Strominger, Yau, and Zaslow, entitled "Mirror Symmetry is T-duality"'.
-
+excerpt: 'The SYZ conjecture is an attempt to understand the mirror symmetry conjecture, an issue in theoretical physics and mathematics. The original conjecture was proposed in a paper by Strominger, Yau, and Zaslow, entitled "Mirror Symmetry is T-duality".'
 date: '2025-01-23'
-
  #venue: 'Journal 1'
 speaker: Ju Tan 
 notes1url: 'http://tea522.github.io/files/SYZ Mirror Symmetry.pdf'
