@@ -3,7 +3,7 @@ title: "Deformation Theory"
 collection: publications
 category: manuscripts
 permalink: /publication/Deformation Theory
-excerpt: 'Deformation. [Kodaira](http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures II.pdf).'
+excerpt: 'Deformation. [Kodaira](https://tea522.github.io/files/Kodaira-Nirenberg-Spencer--On%20the%20Existence%20of%20Deformations%20of%20Complex%20Analytic%20Structures.pdf).'
 speaker:  All
 date: '2025-03-10'
 # venue: 'Journal 1'
