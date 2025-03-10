@@ -1,8 +1,8 @@
 ---
 title: "Classical Hodge theory"
-collection: publications
+collection: talks
 category: manuscripts
-permalink: /publication/Hodge theory
+permalink: /talks/Hodge theory
 excerpt: 'Hodge theory was developed by Hodge in the 1930s to study algebraic geometry, and it built on the work of Georges de Rham on de Rham cohomology. It has major applications in two settings—Riemannian manifolds and Kähler manifolds. Hodge theory  played an important role in algebraic geometry. First, Hodge theory gives restrictions on which topological spaces an have the structure of a smooth complex projective variety. Second, Hodge theory gives information about the moduli space of smooth complex projective varieties with a given topological type. The best case is when the Torelli theorem holds, meaning that the variety is determined up to isomorphism by its Hodge structure. Finally, Hodge theory gives information about the Chow group of algebraic cycles on a given variety. The Hodge conjecture is about the image of the cycle map from Chow groups to ordinary cohomology, but Hodge theory also gives information about the kernel of the cycle map, for example using the intermediate Jacobians which are built from the Hodge structure.'
 speaker: Ju Tan and Zhitong Su
 date: '2025-01-23'
