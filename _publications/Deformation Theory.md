@@ -11,7 +11,7 @@ notes1url: 'http://tea522.github.io/files/Kodaira-Nirenberg-Spencer--On the Exis
 notes2url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures I.pdf'
 notes3url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures I.pdf'
 notes4url: 'http://tea522.github.io/files/K. Kodaira - Complex Manifolds and Deformation of Complex Structures  (1985).pdf'
-Kodairaurl: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures II.pdf'
+#Kodairaurl: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures II.pdf'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: ''
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' 
