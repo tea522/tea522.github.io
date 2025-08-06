@@ -99,8 +99,29 @@
 <!-- Deformation theory 部分 -->
 
 
-    {% if post.Kodaira_paperurl %}  
-    <p><a href="{{ post.Kodaira_paperurl }}"> Kodaira_paper  </a></p>
+    {% if post.Kodaira_bookurl %}  
+    <p><a href="{{ post.Kodaira_bookurl }}"> K. Kodaira - Complex Manifolds and Deformation of Complex Structures  </a></p>
+    {% endif %}
+
+
+    {% if post.Kodaira_Spencer1url %}  
+    <p><a href="{{ post.Kodaira_Spencer1url }}"> Kodaira-Spencer  On Deformations of Complex Analytic Structures I </a></p>
+    {% endif %}
+
+    {% if post.Kodaira_Spencer2url %}  
+    <p><a href="{{ post.Kodaira_Spencer2url }}"> Kodaira-Spencer  On Deformations of Complex Analytic Structures II </a></p>
+    {% endif %}
+   
+  {% if post.Kodaira_Spencer3url %}  
+    <p><a href="{{ post.Kodaira_Spencer3url }}"> Kodaira-Spencer  On the Existence of Deformations of Complex Analytic Structures </a></p>
+    {% endif %}
+
+{% if post.def_of_schemesurl %}  
+    <p><a href="{{ post.def_of_schemesurl }}"> Gao_Deformation of schemes  </a></p>
+    {% endif %}
+
+    {% if post.def_of_algurl %}  
+    <p><a href="{{ post.def_of_algurl }}"> Tan_Deformation of associative algebras and Hochschild (co)homology  </a></p>
     {% endif %}
 
 
