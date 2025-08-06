@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome to Jiayu Song's website ！"
-Kodaira_Spencer2url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures II.pdf'
 author_profile: true
 redirect_from: 
   - /about/
