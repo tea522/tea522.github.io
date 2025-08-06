@@ -3,7 +3,7 @@ title: "Deformation Theory"
 collection: talks
 category: manuscripts
 permalink: /talks/Deformation Theory
-excerpt: ' Deformation Theory .'
+excerpt: 'Deformations of complex manifolds have been studied firstly by Kunihiko Kodaira and Donald C. Spencer'
 speaker:  Jiayu Song, Tongji Gao, Ju Tan
 date: '2025-03-10'
 # venue: 'Journal 1'
@@ -12,7 +12,12 @@ Kodaira_Spencer1url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformat
 #notes3url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures I.pdf'
 Kodaira_bookurl: 'http://tea522.github.io/files/K. Kodaira - Complex Manifolds and Deformation of Complex Structures  (1985).pdf'
 Kodaira_Spencer2url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures II.pdf'
+
+
+
 notes4url: 'http://tea522.github.io/files/Introduction to Singularity theory and deformation.pdf'
+
+
 
 def_of_schemesurl: 'http://tea522.github.io/files/Deformation theory of algebraic schemes.pdf'
 
@@ -22,9 +27,7 @@ def_of_algurl: 'http://tea522.github.io/files/Hochschild Cohomology And Deformat
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' 
 ---
 
-Deformations of complex manifolds 
-======
-Deformations of complex manifolds have been studied firstly by Kunihiko Kodaira and Donald C. Spencer. 
+
 
 Deformation from aspect of functors
 ======
