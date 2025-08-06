@@ -19,7 +19,7 @@ Papers and Preprints
 ======
 (with Hua-Zhong Ke and Changzheng Li), Towards small quantum Chern character, preprint at arXiv: math.AG/2507.12333.
 
-(with Changzheng Li, Zhaoyang Liu and Mingzhi Yang) On  Seidel representation in quantum $K$-theory of   Grassmannians,  Sci. China Math. 68 (2025), no. 7, 1523–1548.
+(with Changzheng Li, Zhaoyang Liu and Mingzhi Yang) On  Seidel representation in quantum K theory of   Grassmannians,  Sci. China Math. 68 (2025), no. 7, 1523–1548.
 
 
  <!-- How to use Academic Pages template (You can ignore it!)
