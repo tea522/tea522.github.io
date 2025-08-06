@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publications/ Papers and Preprints
 excerpt: ''
 # venue: 'Journal 1'
+date: '2025-08-06'
 seidelGrassurl: 'http://tea522.github.io/files/papers/SeidelAction202405.pdf'
 smallqchurl: 'http://tea522.github.io/files/papers/Towards_small_quantum_Chern_Character.pdf'
 #notes3url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures I.pdf'
