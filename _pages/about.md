@@ -13,7 +13,7 @@ I am a Phd student in Sun Yat-sen University. The primary purpose of establishin
 
 Research Interests
 ======
-My research interset is Gromov-Witten invariant theory, Quantum K theory and Mirror symmetry. Recently I work in the field of mirror symmetry of Fano-LG models.  And I am also interested in Geometric representation theory.
+My research interset is Gromov-Witten theory, Quantum K-theory and Mirror symmetry. Recently I am working in the field of mirror symmetry of Fano-LG models.  And I am also interested in Geometric representation theory.
 
 Papers and Preprints
 ======
