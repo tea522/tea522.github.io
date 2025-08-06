@@ -92,9 +92,24 @@
     <p><a href="{{ post.notes4url }}"> Note 4 </a></p>
     {% endif %}
 
+    {% if post.notes1url %}  
+    <p><a href="{{ post.notes1url }}"> Note 5 </a></p>
+    {% endif %}
 
     {% if post.Kodaira_paperurl %}  
     <p><a href="{{ post.Kodaira_paperurl }}"> Kodaira_paper  </a></p>
+    {% endif %}
+
+    {% if post.MHSurl %}  
+    <p><a href="{{ post.MHSurl }}"> Mixed Hodge Structure </a></p>
+    {% endif %}
+
+{% if post.perverseurl %}  
+    <p><a href="{{ post.peverseurl }}"> Perverse Sheaf </a></p>
+    {% endif %}
+
+    {% if post.p=wurl%}  
+    <p><a href="{{ post.p=wurl }}"> Mirror P=W </a></p>
     {% endif %}
 
   </article>
