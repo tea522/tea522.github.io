@@ -17,6 +17,9 @@ My research interset is Gromov-Witten theory, Quantum K-theory and Mirror symmet
 
 Papers and Preprints
 ======
+
+(with Changzheng Li, Rui Xiong and Mingzhi Yang),  Quantum Schubert calculus for smooth Schubert divisors of $F\ell_n$, preprint at arXiv: math.AG/2509.17857.
+
 (with Hua-Zhong Ke and Changzheng Li), Towards small quantum Chern character, preprint at arXiv: math.AG/2507.12333.
 
 (with Changzheng Li, Zhaoyang Liu and Mingzhi Yang) On  Seidel representation in quantum K theory of   Grassmannians,  Sci. China Math. 68 (2025), no. 7, 1523–1548.
