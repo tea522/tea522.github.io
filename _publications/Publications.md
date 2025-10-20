@@ -6,8 +6,9 @@ permalink: /publications/ Papers and Preprints
 excerpt: ''
 # venue: 'Journal 1'
 date: '2025-08-06'
-seidelGrassurl: 'http://tea522.github.io/files/papers/SeidelAction202405.pdf'
+seidelGrassurl: 'http://tea522.github.io/files/papers/On_Seidel_representation_in_quantum_K_theory_of_Grassmannians.pdf'
 smallqchurl: 'http://tea522.github.io/files/papers/Towards_small_quantum_Chern_Character.pdf'
+QSCdivurl: 'http://tea522.github.io/files/papers/Quantum_Schubert_calculus_for_Schubert_varieties.pdf'
 #notes3url: 'http://tea522.github.io/files/Kodaira-Spencer--On Deformations of Complex Analytic Structures I.pdf'
 #notes4url: 'http://tea522.github.io/files/K. Kodaira - Complex Manifolds and Deformation of Complex Structures  (1985).pdf'
 
